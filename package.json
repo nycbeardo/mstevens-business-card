@@ -1,0 +1,14 @@
+{
+  "name": "mstevens-business-card",
+  "version": "1.0.0",
+  "description": "custom business card using terminal for output via npx, based on whitep4nth3r's tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "{}"
+  },
+  "author": "nycbeardo",
+  "license": "ISC",
+  "bin": {
+    "mstevens-business-card": "./index.js"
+  }
+}
