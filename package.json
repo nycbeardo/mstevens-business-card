@@ -2,7 +2,7 @@
   "name": "mstevens-business-card",
   "version": "1.0.2",
   "description": "custom business card using terminal for output via npx, based on whitep4nth3r's tutorial",
-  "main": "index.mjs",
+  "main": "index.js",
   "scripts": {
     "test": "{}"
   },
@@ -10,5 +10,8 @@
   "license": "ISC",
   "bin": {
     "mstevens-business-card": "./index.mjs"
+  },
+  "dependencies": {
+    "boxen": "^6.2.1"
   }
 }
