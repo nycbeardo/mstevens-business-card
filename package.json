@@ -9,6 +9,6 @@
   "author": "nycbeardo",
   "license": "ISC",
   "bin": {
-    "mstevens-business-card": "./index.js"
+    "mstevens-business-card": "./index.mjs"
   }
 }
