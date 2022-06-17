@@ -1,8 +1,8 @@
 {
   "name": "mstevens-business-card",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "custom business card using terminal for output via npx, based on whitep4nth3r's tutorial",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "{}"
   },
